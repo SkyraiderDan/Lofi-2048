@@ -1,0 +1,6 @@
+{
+  "name": "Vaporwave 2048 & Lofi Lounge",
+  "description": "A stylish vaporwave-aesthetic 2048 puzzle game with synth audio effects, smooth tile merging, and a minimizable live Lofi Girl stream player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
